@@ -83,3 +83,9 @@ button {
         width: 20%;
     }
 }
+
+@media (max-width: 799px) {
+    #hero {
+        height: 60vh;
+    }
+}

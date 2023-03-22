@@ -53,19 +53,17 @@ button {
     padding-top: 30px;
     display: flex;
     justify-content: center;
-    
+    gap: 15px;
     
 }
 
 .passwords {
     background-color: #1F2937;
     width: 30%;
-    height: 2.5em;
+    height: 3em;
     border-radius: 3px;
-    margin: 6px;
     font-size: 1em;
     text-align: center;
-    padding: 1px;
 }
 
 #firstPassword, #secondPassword {

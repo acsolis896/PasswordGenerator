@@ -6,10 +6,10 @@ body {
 
 #hero {
     background-color: #ECFDF5;
-    padding: 20px;
-    width: 350px;
-    height: 400px;
-    margin: 30px auto;
+    padding: 1.5rem;
+    width: 90%;
+    height: 90vh;
+    margin: 1.7rem auto;
 }
 
 h1 {

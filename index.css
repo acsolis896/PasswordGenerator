@@ -9,7 +9,7 @@ body {
     background-color: #ECFDF5;
     padding: 1.5rem;
     width: 75%;
-    height: 60vh;
+    /* height: 60vh; */
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -44,7 +44,7 @@ button {
     padding: 8px 12px;
     font-size: 1em;
     margin-top: 40px;
-    width: 20%;
+    width: 30%;
 }
 
 #bottom {
@@ -60,7 +60,7 @@ button {
 .passwords {
     background-color: #1F2937;
     width: 30%;
-    height: 35px;
+    height: 2.5em;
     border-radius: 3px;
     margin: 6px;
     font-size: 1em;

@@ -11,7 +11,6 @@ body {
     background-color: #ECFDF5;
     padding: 2rem;
     width: 75%;
-    /* height: 60vh; */
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -85,11 +84,5 @@ button {
     button {
         font-size: 2em;
         width: 20%;
-    }
-}
-
-@media (max-width: 799px) {
-    #hero {
-        height: 60vh;
     }
 }
